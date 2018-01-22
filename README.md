@@ -1,2 +1,2 @@
-# -Fractal-tree
+# Fractal tree
 分形树
